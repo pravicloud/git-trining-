@@ -1,0 +1,12 @@
+git init - 
+git add 
+git commit 
+git status
+git diff 
+
+
+git clone -b main "url"
+
+git pull 
+
+git commit -am "updated the samplefile1.txt" (not for untracked file)
