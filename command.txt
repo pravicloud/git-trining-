@@ -10,3 +10,5 @@ git clone -b main "url"
 git pull 
 
 git commit -am "updated the samplefile1.txt" (not for untracked file)
+
+git config --global credential.helper store - passwordless authentication 
