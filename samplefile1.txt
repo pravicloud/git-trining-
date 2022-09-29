@@ -7,4 +7,7 @@ edited from terminal
 updated commit
 
 
-checking stash  
+checking stash
+
+
+edited the samplefile1.txr  
