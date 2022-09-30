@@ -1,7 +1,0 @@
-This is a sample file1.
-
-
-edited from terminal 
-
-
-updated commit 
