@@ -31,3 +31,20 @@ git stash list
 git stash apply 
 
 git stash drop 
+
+
+
+
+
+Docker install 
+
+
+sudo yum update -y
+sudo yum install docker -y
+
+
+Ansible install
+
+sudo yum update -y 
+sudo amazon-linux-extras install epel
+sudo yum install ansible -y
